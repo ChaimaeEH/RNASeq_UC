@@ -5,6 +5,10 @@ The objective of this project is to explore a publicly available transcriptomics
 Four biopsies were collected from each patient, from inflamed and non-inflamed areas of the colon.
 The entirety of the data (count matrix and associated metadata) can be downloaded from GEO: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE107593. The Series Matrix TXT file should be used to extract the study metadata variables.
 
+**READ THE HTML FILE**
+
+To read the html file, please download the file then copy the link of the page that will open and go to https://htmlpreview.github.io/ and paste the link and click on "Preview".
+
 **Questions :** 
 
 1)	In a PCA using the top 500 most variable genes, what metadata variable is best associated with the first principal component? 
