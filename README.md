@@ -7,7 +7,10 @@ The entirety of the data (count matrix and associated metadata) can be downloade
 
 **READ THE HTML FILE**
 
-To read the html file, please download the file then copy the link of the page that will open and go to https://htmlpreview.github.io/ and paste the link and click on "Preview".
+To read the html file: 
+- click on the html file then click on "View Raw"
+- copy the link of the page 
+- go to https://htmlpreview.github.io/ and paste the link and click on "Preview".
 
 **Questions :** 
 
